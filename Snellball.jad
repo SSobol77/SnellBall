@@ -1,0 +1,8 @@
+MIDlet-Version: 1.0.0
+MIDlet-Vendor: Yes10Style
+MIDlet-Jar-URL: Snellball.jar
+MicroEdition-Configuration: CLDC-1.0
+MIDlet-1: Snellball, /png/ball1.png, SnellballMIDlet 
+MicroEdition-Profile: MIDP-1.0
+MIDlet-Jar-Size: 191125
+MIDlet-Name: Snellbal
